@@ -1,0 +1,15 @@
+body{
+    margin-top: 1.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    font-family:sans-serif,Arial, Helvetica;
+    color:black;
+    font-style: inherit;
+    font-weight: 900;
+    text-decoration: dashed;
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing:2px;
+    font-size: larger;
+    display: none;
+}
